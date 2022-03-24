@@ -20,7 +20,7 @@ class Book{
 		price = b1.price;
 	}
 	
-	display(){
+	void display(){
 		cout<<"name - "<<name<<endl;
 		cout<<"price - "<<price<<endl;
 	}
